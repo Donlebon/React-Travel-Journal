@@ -1,11 +1,10 @@
 import React from 'react';
 
-
 export default function CardData(props){
     return (
         <div className = "cards-container">
             <div className = "card-container">
-                <img src = {props.item.imageUrl} alt = "country" className = "place" />
+                <img src = {Object.values(props.item.imageUrl)[0]} alt = "country" className = "place" />
                 <div className = "info">
                     <div className = "info-container">
                         <svg width="7" className = "map" height="10" viewBox="0 0 7 10" fill="none" xmlns="http://www.w3.org/2000/svg">
