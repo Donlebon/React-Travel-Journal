@@ -1,13 +1,16 @@
 {
   "files": {
     "main.css": "/React-Travel-Journal/static/css/main.308844cb.css",
-    "main.js": "/React-Travel-Journal/static/js/main.da56391b.js",
+    "main.js": "/React-Travel-Journal/static/js/main.df380f1b.js",
+    "static/media/Vietnam.jpg": "/React-Travel-Journal/static/media/Vietnam.3221ad61d944738378d2.jpg",
+    "static/media/Brazil.jpg": "/React-Travel-Journal/static/media/Brazil.86c7de8070e3e154ef01.jpg",
+    "static/media/Japan.jpg": "/React-Travel-Journal/static/media/Japan.8c9b67166bd77fcd7194.jpg",
     "index.html": "/React-Travel-Journal/index.html",
     "main.308844cb.css.map": "/React-Travel-Journal/static/css/main.308844cb.css.map",
-    "main.da56391b.js.map": "/React-Travel-Journal/static/js/main.da56391b.js.map"
+    "main.df380f1b.js.map": "/React-Travel-Journal/static/js/main.df380f1b.js.map"
   },
   "entrypoints": [
     "static/css/main.308844cb.css",
-    "static/js/main.da56391b.js"
+    "static/js/main.df380f1b.js"
   ]
 }
